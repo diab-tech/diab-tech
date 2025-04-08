@@ -1,4 +1,4 @@
--👋 Hi, I’m @diab-tech
+-👋 Hi, I’m Shabaan Diab
 
 
 As a Frontend Engineer, I’m driven by a passion for clean, scalable code and modern web technologies. I stay on the bleeding edge of the tech scene—constantly learning, experimenting, and refining my skills.
